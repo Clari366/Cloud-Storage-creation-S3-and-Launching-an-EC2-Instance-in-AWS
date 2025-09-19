@@ -49,19 +49,22 @@ d)	Steps to Clean Up (Terminate the Instance)
 
 
 Snap Shots:
- 
 
 Snap Shot 1: Simple Storage Service (S3)
  
+<img width="1004" height="539" alt="488744871-7bcbc34a-925f-45be-b177-e82e38f39bbc" src="https://github.com/user-attachments/assets/181e51a9-d4c6-485a-97a7-f0ff4eda3976" />
+
 
 Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
 
 
+<img width="981" height="583" alt="488745020-3f6f7b88-7425-4179-a1e3-bc1a85fb1372" src="https://github.com/user-attachments/assets/8437d875-3946-4e15-96e3-6c6fb1ce1830" />
 
 
 
 
-
+Result:
+Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
 
 
 
